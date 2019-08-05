@@ -1,0 +1,108 @@
+[ 2019-08-05T09:08:41+08:00 ] 127.0.0.1 /Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+ERR: 无法加载模块:Public
+
+[ 2019-08-05T09:08:42+08:00 ] 127.0.0.1 /Public/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000937s ]
+ERR: 无法加载模块:Public
+
+[ 2019-08-05T09:08:44+08:00 ] 127.0.0.1 /Public/js/dialog/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001034s ]
+ERR: 无法加载模块:Public
+
+[ 2019-08-05T09:08:44+08:00 ] 127.0.0.1 /Public/js/dialog.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000991s ]
+ERR: 无法加载模块:Public
+
+[ 2019-08-05T09:08:44+08:00 ] 127.0.0.1 /Public/js/admin/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001201s ]
+ERR: 无法加载模块:Public
+
+[ 2019-08-05T09:08:44+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001066s ]
+ERR: 无法加载模块:Favicon
+
+[ 2019-08-05T09:08:57+08:00 ] 127.0.0.1 /Public/js/dialog.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+ERR: 无法加载模块:Public
+
+[ 2019-08-05T09:08:57+08:00 ] 127.0.0.1 /Public/js/admin/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+ERR: 无法加载模块:Public
+
+[ 2019-08-05T09:08:57+08:00 ] 127.0.0.1 /Public/js/dialog/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+ERR: 无法加载模块:Public
+
+[ 2019-08-05T09:08:57+08:00 ] 127.0.0.1 /Public/js/dialog/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001151s ]
+ERR: 无法加载模块:Public
+
+[ 2019-08-05T09:08:57+08:00 ] 127.0.0.1 /Public/js/dialog.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+ERR: 无法加载模块:Public
+
+[ 2019-08-05T09:08:57+08:00 ] 127.0.0.1 /Public/js/admin/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001955s ]
+ERR: 无法加载模块:Public
+
+[ 2019-08-05T09:09:36+08:00 ] 127.0.0.1 /Public/js/dialog.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000880s ]
+ERR: 无法加载模块:Public
+
+[ 2019-08-05T09:09:36+08:00 ] 127.0.0.1 /Public/js/dialog/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+ERR: 无法加载模块:Public
+
+[ 2019-08-05T09:09:36+08:00 ] 127.0.0.1 /Public/js/admin/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000912s ]
+ERR: 无法加载模块:Public
+
+[ 2019-08-05T09:09:36+08:00 ] 127.0.0.1 /Public/js/dialog/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000865s ]
+ERR: 无法加载模块:Public
+
+[ 2019-08-05T09:09:37+08:00 ] 127.0.0.1 /Public/js/dialog.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001079s ]
+ERR: 无法加载模块:Public
+
+[ 2019-08-05T09:09:37+08:00 ] 127.0.0.1 /Public/js/admin/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+ERR: 无法加载模块:Public
+
